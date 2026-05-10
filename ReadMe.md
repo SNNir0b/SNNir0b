@@ -1,5 +1,5 @@
 # 💫 About Me:
-An minecraft plugin & mods creator <br>Learner 
+ <br>Learner 
 
 
 ## 🌐 Socials:
